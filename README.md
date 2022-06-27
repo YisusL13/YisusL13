@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YisusL13
+- 👋 Hi, I’m Jesus Del Angel Lugardo Rodriguez
 - 👀 I’m interested in aprfender programacion en desarrolo web,en front-end
 - 🌱 I’m currently learning ...desarrolo web con un bootcam de Ucamp & por mi cuenta  en freecodecamp
 - 💞️ I’m looking to collaborate on ...area de desarrollo web
